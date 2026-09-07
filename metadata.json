@@ -1,0 +1,6 @@
+{
+  "name": "Super AI Hub",
+  "description": "An AI hub with chat, code generation, P2P network, and voice capabilities.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
